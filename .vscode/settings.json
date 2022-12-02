@@ -4,6 +4,7 @@
         "Colaboratory",
         "ipynb",
         "linspace",
-        "Numpy"
+        "Numpy",
+        "Sympy"
     ]
 }
