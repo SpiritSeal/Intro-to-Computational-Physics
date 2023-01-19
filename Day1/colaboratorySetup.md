@@ -1,4 +1,4 @@
-# How to setup Google Colaboratory *for Dummies™*
+# How to setup Google Colaboratory
 
 1. Navigate to [https://colab.research.google.com/](https://colab.research.google.com/)
 ![1668617863548](image/colaboratorySetup/1668617863548.png)
