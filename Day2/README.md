@@ -6,6 +6,6 @@
 3. Read/ run through [basicPlotting](../Day2/basicPlotting.ipynb) in Day2
 4. Take the simulation defined in the Day1 `inClassQuiz` and plot the `position` and `velocity` values with respect to time. Bonus points if you can get them both in the same plot.
 5. Read/ run through [interactivePlotting](../Day2/interactivePlotting.ipynb) in Day2
-6. Hi Eric
+6. Hi Eric, Hi Saketh
 7. Make the plot you created in step 5 interactive, making the gravity and initial horizontal/ vertical velocity vector components sliders that can be adjusted to see how the plot changes. Make sure you also plot the original graph as a reference.
 8. Start researching publicly available datasets related to the area of physics you are interested in. Email me some links to datasets you find interesting. I will try to find some time to go over some of them in class and incorporate some of them into the workshop examples/ projects.
