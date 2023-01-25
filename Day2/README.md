@@ -1,3 +1,6 @@
-# Intro to Computational Physics Day 2: Modeling Data
+# Agenda for Day 2
 
-This unit will cover the basics for non-technical users to quickly and easily get started creating plots and models to represent their data
+1. Read/ run through [introMath](../Day2/introMath.ipynb) in Day2 (built based on feedback from Day 1)
+2. Finish the [IntroJupyter](../Day1/IntroJupyter.ipynb) and [inClassQuiz](../Day1/inClassQuiz.ipynb) notebooks from Day 1.
+<br>Related tidbit: Don't worry if you are moving faster or slower than other people in the class; know that you are earning points for your effort and progress compared to your prior experience.  If you are moving faster than others, you are probably a more experienced programmer, and you will be able to move on to more advanced material sooner.  If you are moving slower than others, you are probably a less experienced programmer, and you will need to spend more time on the basics. Either way, just make sure you are actively putting in the effort to actively learn new material, regardless of what level of prior experience you have. You only lose points if you are not actively trying to continuously expand your knowledge using the resources provided for the 55 minutes you are <s>stuck in class</s> engaged in daily educational opportunities each day of this workshop.
+3. f
